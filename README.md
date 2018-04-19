@@ -20,4 +20,5 @@ The following components / technologies are used in developing the app
 Steps to launch the Application
 
 •	Start the node package manager using ‘npm start’ command. It will download the required components and will deploy the app.
+
 •	Open the URL: http://localhost:8000/app in the browser
