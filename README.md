@@ -6,10 +6,15 @@ This application fetches the rental properties available in TradMe by using the 
 Dependencies:
 
 The following components / technologies are used in developing the app
+
 •	Angular
+
 •	jQuery
+
 •	Node Js
+
 •	Bower package manager
+
 •	TradeMe sand box environment
 
 Steps to launch the Application
