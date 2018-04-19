@@ -1,4 +1,4 @@
-Find TradeMe Properties Angular JS Application
+Angular SPA calling TradeMe web API's
 
 Description:
 
